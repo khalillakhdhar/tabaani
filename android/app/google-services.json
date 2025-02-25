@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "658517710985",
+    "firebase_url": "https://first-a2f32.firebaseio.com",
+    "project_id": "first-a2f32",
+    "storage_bucket": "first-a2f32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658517710985:android:6933745cb2c63b41",
+        "android_client_info": {
+          "package_name": "com.example.grh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658517710985-ov9iv96uhul02jslbcm0l6oovkrgg553.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp2FSKVnacSBcsUCw6A5X9U0qvFS8fBAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658517710985-ov9iv96uhul02jslbcm0l6oovkrgg553.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658517710985:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658517710985-ov9iv96uhul02jslbcm0l6oovkrgg553.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp2FSKVnacSBcsUCw6A5X9U0qvFS8fBAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658517710985-ov9iv96uhul02jslbcm0l6oovkrgg553.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658517710985:android:280cc43bff50f00ee98e58",
+        "android_client_info": {
+          "package_name": "com.example.tabaani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658517710985-ov9iv96uhul02jslbcm0l6oovkrgg553.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp2FSKVnacSBcsUCw6A5X9U0qvFS8fBAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658517710985-ov9iv96uhul02jslbcm0l6oovkrgg553.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
