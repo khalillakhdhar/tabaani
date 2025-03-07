@@ -1,5 +1,5 @@
 class UtilisateurModel {
-  final String? id;
+  late final String? id;
   final String nom;
   final String prenom;
   final String email;
